@@ -1,0 +1,29 @@
+#head {
+  margin-bottom: 50px;
+  text-align: center;
+  font-size: 30px;
+
+}
+#main{
+  padding-left: 400px;
+  
+}
+body{
+  background-image: url("img.jpg");
+}
+sup{
+  color: red;
+}
+label{
+  font-size:18pt;
+}
+#img{
+  width: 100px;
+}
+button{
+  
+  background-color:greenyellow;
+  width: 80px;
+  height: 35px;
+  font-size: large;
+}
